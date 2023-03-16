@@ -1,7 +1,5 @@
 # HILING.ID (MAKE YOUR FLIGHT EASIER!)
-===
-&nbsp;
-Apk Preview 
+
 ---
 #### Screenshot Landing Page Aplikasi
 <p align="center">
